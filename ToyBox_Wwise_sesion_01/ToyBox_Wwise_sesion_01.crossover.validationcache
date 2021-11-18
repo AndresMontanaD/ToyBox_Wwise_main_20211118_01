@@ -1,5 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ValidationCache Version="1" SchemaVersion="103">
+	<ValidationCacheItem File="Z:\Volumes\HD 2TB\ToyBox Game Audio\06 Repositorios\ToyBox_Wwise_main_20211118_01\ToyBox_Wwise_sesion_01\Virtual Acoustics\Factory Acoustic Textures.wwu" DateLow="1636224536" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\HD 2TB\ToyBox Game Audio\06 Repositorios\ToyBox_Wwise_main_20211118_01\ToyBox_Wwise_sesion_01\Virtual Acoustics\Default Work Unit.wwu" DateLow="1636225433" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\HD 2TB\ToyBox Game Audio\06 Repositorios\ToyBox_Wwise_main_20211118_01\ToyBox_Wwise_sesion_01\Triggers\Default Work Unit.wwu" DateLow="1636225433" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\HD 2TB\ToyBox Game Audio\06 Repositorios\ToyBox_Wwise_main_20211118_01\ToyBox_Wwise_sesion_01\ToyBox_Wwise_sesion_01.wproj" DateLow="1636244066" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\HD 2TB\ToyBox Game Audio\06 Repositorios\ToyBox_Wwise_main_20211118_01\ToyBox_Wwise_sesion_01\ToyBox_Wwise_sesion_01.crossover.wsettings" DateLow="1637274506" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\HD 2TB\ToyBox Game Audio\06 Repositorios\ToyBox_Wwise_main_20211118_01\ToyBox_Wwise_sesion_01\Switches\Default Work Unit.wwu" DateLow="1636225433" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\HD 2TB\ToyBox Game Audio\06 Repositorios\ToyBox_Wwise_main_20211118_01\ToyBox_Wwise_sesion_01\States\Default Work Unit.wwu" DateLow="1636225433" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\HD 2TB\ToyBox Game Audio\06 Repositorios\ToyBox_Wwise_main_20211118_01\ToyBox_Wwise_sesion_01\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1637264949" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\HD 2TB\ToyBox Game Audio\06 Repositorios\ToyBox_Wwise_main_20211118_01\ToyBox_Wwise_sesion_01\SoundBanks\Default Work Unit.wwu" DateLow="1636240131" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\HD 2TB\ToyBox Game Audio\06 Repositorios\ToyBox_Wwise_main_20211118_01\ToyBox_Wwise_sesion_01\Queries\Factory Queries.wwu" DateLow="1636224536" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\HD 2TB\ToyBox Game Audio\06 Repositorios\ToyBox_Wwise_main_20211118_01\ToyBox_Wwise_sesion_01\Queries\Default Work Unit.wwu" DateLow="1636225433" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\HD 2TB\ToyBox Game Audio\06 Repositorios\ToyBox_Wwise_main_20211118_01\ToyBox_Wwise_sesion_01\Presets\Factory Spatial Audio.wwu" DateLow="1636224536" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\HD 2TB\ToyBox Game Audio\06 Repositorios\ToyBox_Wwise_main_20211118_01\ToyBox_Wwise_sesion_01\Presets\Factory Reflect.wwu" DateLow="1636224536" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\HD 2TB\ToyBox Game Audio\06 Repositorios\ToyBox_Wwise_main_20211118_01\ToyBox_Wwise_sesion_01\Presets\Default Work Unit.wwu" DateLow="1636225433" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\HD 2TB\ToyBox Game Audio\06 Repositorios\ToyBox_Wwise_main_20211118_01\ToyBox_Wwise_sesion_01\Modulators\Default Work Unit.wwu" DateLow="1636225433" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\HD 2TB\ToyBox Game Audio\06 Repositorios\ToyBox_Wwise_main_20211118_01\ToyBox_Wwise_sesion_01\Mixing Sessions\Default Work Unit.wwu" DateLow="1636225433" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\HD 2TB\ToyBox Game Audio\06 Repositorios\ToyBox_Wwise_main_20211118_01\ToyBox_Wwise_sesion_01\Metadata\Default Work Unit.wwu" DateLow="1636225433" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\HD 2TB\ToyBox Game Audio\06 Repositorios\ToyBox_Wwise_main_20211118_01\ToyBox_Wwise_sesion_01\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1636236991" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\HD 2TB\ToyBox Game Audio\06 Repositorios\ToyBox_Wwise_main_20211118_01\ToyBox_Wwise_sesion_01\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1636906483" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\HD 2TB\ToyBox Game Audio\06 Repositorios\ToyBox_Wwise_main_20211118_01\ToyBox_Wwise_sesion_01\Game Parameters\Factory SoundSeed Air Game Syncs.wwu" DateLow="1636224536" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\HD 2TB\ToyBox Game Audio\06 Repositorios\ToyBox_Wwise_main_20211118_01\ToyBox_Wwise_sesion_01\Game Parameters\Factory Motion.wwu" DateLow="1636224536" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\HD 2TB\ToyBox Game Audio\06 Repositorios\ToyBox_Wwise_main_20211118_01\ToyBox_Wwise_sesion_01\Game Parameters\Default Work Unit.wwu" DateLow="1636225433" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\HD 2TB\ToyBox Game Audio\06 Repositorios\ToyBox_Wwise_main_20211118_01\ToyBox_Wwise_sesion_01\Events\Default Work Unit.wwu" DateLow="1637261077" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\HD 2TB\ToyBox Game Audio\06 Repositorios\ToyBox_Wwise_main_20211118_01\ToyBox_Wwise_sesion_01\Effects\Factory Reflect.wwu" DateLow="1636224536" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\HD 2TB\ToyBox Game Audio\06 Repositorios\ToyBox_Wwise_main_20211118_01\ToyBox_Wwise_sesion_01\Effects\Factory Mastering Suite.wwu" DateLow="1636224536" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\HD 2TB\ToyBox Game Audio\06 Repositorios\ToyBox_Wwise_main_20211118_01\ToyBox_Wwise_sesion_01\Effects\Factory iZotope Singleband Distortion.wwu" DateLow="1636224536" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\HD 2TB\ToyBox Game Audio\06 Repositorios\ToyBox_Wwise_main_20211118_01\ToyBox_Wwise_sesion_01\Effects\Factory iZotope Multiband Distortion.wwu" DateLow="1636224536" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\HD 2TB\ToyBox Game Audio\06 Repositorios\ToyBox_Wwise_main_20211118_01\ToyBox_Wwise_sesion_01\Effects\Factory iZotope Hybrid Reverb Effects.wwu" DateLow="1636224536" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\HD 2TB\ToyBox Game Audio\06 Repositorios\ToyBox_Wwise_main_20211118_01\ToyBox_Wwise_sesion_01\Effects\Factory iZotope Filters.wwu" DateLow="1636224536" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\HD 2TB\ToyBox Game Audio\06 Repositorios\ToyBox_Wwise_main_20211118_01\ToyBox_Wwise_sesion_01\Effects\Factory iZotope Dynamics.wwu" DateLow="1636224536" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\HD 2TB\ToyBox Game Audio\06 Repositorios\ToyBox_Wwise_main_20211118_01\ToyBox_Wwise_sesion_01\Effects\Factory iZotope Delay.wwu" DateLow="1636224536" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\HD 2TB\ToyBox Game Audio\06 Repositorios\ToyBox_Wwise_main_20211118_01\ToyBox_Wwise_sesion_01\Effects\Factory iZotope Box Modeler.wwu" DateLow="1636224536" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\HD 2TB\ToyBox Game Audio\06 Repositorios\ToyBox_Wwise_main_20211118_01\ToyBox_Wwise_sesion_01\Effects\Factory Effects.wwu" DateLow="1637119161" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\HD 2TB\ToyBox Game Audio\06 Repositorios\ToyBox_Wwise_main_20211118_01\ToyBox_Wwise_sesion_01\Effects\Factory Auro Headphone.wwu" DateLow="1636224536" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\HD 2TB\ToyBox Game Audio\06 Repositorios\ToyBox_Wwise_main_20211118_01\ToyBox_Wwise_sesion_01\Effects\Default Work Unit.wwu" DateLow="1637118997" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\HD 2TB\ToyBox Game Audio\06 Repositorios\ToyBox_Wwise_main_20211118_01\ToyBox_Wwise_sesion_01\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1636225433" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\HD 2TB\ToyBox Game Audio\06 Repositorios\ToyBox_Wwise_main_20211118_01\ToyBox_Wwise_sesion_01\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1636224536" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\HD 2TB\ToyBox Game Audio\06 Repositorios\ToyBox_Wwise_main_20211118_01\ToyBox_Wwise_sesion_01\Conversion Settings\Default Work Unit.wwu" DateLow="1636225433" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\HD 2TB\ToyBox Game Audio\06 Repositorios\ToyBox_Wwise_main_20211118_01\ToyBox_Wwise_sesion_01\Control Surface Sessions\Default Work Unit.wwu" DateLow="1636225433" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\HD 2TB\ToyBox Game Audio\06 Repositorios\ToyBox_Wwise_main_20211118_01\ToyBox_Wwise_sesion_01\Audio Devices\Default Work Unit.wwu" DateLow="1636236991" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\HD 2TB\ToyBox Game Audio\06 Repositorios\ToyBox_Wwise_main_20211118_01\ToyBox_Wwise_sesion_01\Attenuations\Default Work Unit.wwu" DateLow="1636225433" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\HD 2TB\ToyBox Game Audio\06 Repositorios\ToyBox_Wwise_main_20211118_01\ToyBox_Wwise_sesion_01\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="1636224536" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\HD 2TB\ToyBox Game Audio\06 Repositorios\ToyBox_Wwise_main_20211118_01\ToyBox_Wwise_sesion_01\Actor-Mixer Hierarchy\Factory SoundSeed Air Objects.wwu" DateLow="1636224536" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\HD 2TB\ToyBox Game Audio\06 Repositorios\ToyBox_Wwise_main_20211118_01\ToyBox_Wwise_sesion_01\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1637264949" DateHigh="0"/>
 	<ValidationCacheItem File="Z:\Volumes\HD 2TB\ToyBox Game Audio\05 Wwise\ToyBox Wwise 20211106\ToyBox_Wwise_sesion_01\Virtual Acoustics\Factory Acoustic Textures.wwu" DateLow="1636224536" DateHigh="0"/>
 	<ValidationCacheItem File="Z:\Volumes\HD 2TB\ToyBox Game Audio\05 Wwise\ToyBox Wwise 20211106\ToyBox_Wwise_sesion_01\Virtual Acoustics\Default Work Unit.wwu" DateLow="1636225433" DateHigh="0"/>
 	<ValidationCacheItem File="Z:\Volumes\HD 2TB\ToyBox Game Audio\05 Wwise\ToyBox Wwise 20211106\ToyBox_Wwise_sesion_01\Triggers\Default Work Unit.wwu" DateLow="1636225433" DateHigh="0"/>
