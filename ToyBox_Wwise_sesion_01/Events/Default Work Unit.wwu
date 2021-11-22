@@ -28,9 +28,22 @@
 				<Event Name="trampa_cruces_aparece" ID="{C7D661BA-9D91-4379-AFD0-0C265FC9D0A0}">
 					<ChildrenList>
 						<Action Name="" ID="{F934E0EF-D090-4A4E-B3E9-B2B912431A2B}" ShortID="459860414">
+							<PropertyList>
+								<Property Name="Delay" Type="Real64" Value="0.5"/>
+							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Target">
 									<ObjectRef Name="trampa_agujas" ID="{7368279F-8007-4BD6-BCA7-A1D972B457A4}" WorkUnitID="{0068F637-75D2-4DCF-A442-34947F9C8869}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{BEC199E0-2FB4-4341-848C-7A4A8D945FD7}" ShortID="427960732">
+							<PropertyList>
+								<Property Name="Delay" Type="Real64" Value="0.5"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="rumble_corto" ID="{6D3AE9BE-237C-4A1C-9448-93092A726D9D}" WorkUnitID="{0068F637-75D2-4DCF-A442-34947F9C8869}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>
@@ -267,7 +280,7 @@
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Target">
-									<ObjectRef Name="Mx02_To the Rescue_enemigos" ID="{7F1F2FA9-3A1C-4255-96A1-93045653F31A}" WorkUnitID="{0068F637-75D2-4DCF-A442-34947F9C8869}"/>
+									<ObjectRef Name="TB_gameplay_v1_1" ID="{FC4A75C5-7728-4768-8870-E285B0DDC4B8}" WorkUnitID="{0068F637-75D2-4DCF-A442-34947F9C8869}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>
@@ -486,7 +499,7 @@
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Target">
-									<ObjectRef Name="Mx02_To the Rescue_enemigos" ID="{7F1F2FA9-3A1C-4255-96A1-93045653F31A}" WorkUnitID="{0068F637-75D2-4DCF-A442-34947F9C8869}"/>
+									<ObjectRef Name="TB_gameplay_v1_1" ID="{FC4A75C5-7728-4768-8870-E285B0DDC4B8}" WorkUnitID="{0068F637-75D2-4DCF-A442-34947F9C8869}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>
@@ -502,7 +515,7 @@
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Target">
-									<ObjectRef Name="Mx02_To the Rescue_enemigos" ID="{7F1F2FA9-3A1C-4255-96A1-93045653F31A}" WorkUnitID="{0068F637-75D2-4DCF-A442-34947F9C8869}"/>
+									<ObjectRef Name="TB_gameplay_v1_1" ID="{FC4A75C5-7728-4768-8870-E285B0DDC4B8}" WorkUnitID="{0068F637-75D2-4DCF-A442-34947F9C8869}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>
@@ -594,9 +607,22 @@
 				<Event Name="trampa_bolas_aparece" ID="{F8347866-3D47-485F-85F9-A77D06211EA8}">
 					<ChildrenList>
 						<Action Name="" ID="{37541606-8C96-4D7F-BB88-7AA0648245F8}" ShortID="983541485">
+							<PropertyList>
+								<Property Name="Delay" Type="Real64" Value="0.5"/>
+							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Target">
 									<ObjectRef Name="trampa_bola" ID="{CD25F0B6-1857-4E06-9141-DC843C59CF94}" WorkUnitID="{0068F637-75D2-4DCF-A442-34947F9C8869}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{E3C1B3FC-663C-4F98-BE33-C9544989689B}" ShortID="366816624">
+							<PropertyList>
+								<Property Name="Delay" Type="Real64" Value="0.3"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="rumble_corto" ID="{6D3AE9BE-237C-4A1C-9448-93092A726D9D}" WorkUnitID="{0068F637-75D2-4DCF-A442-34947F9C8869}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>
@@ -880,7 +906,7 @@
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Target">
-									<ObjectRef Name="Mx02_To the Rescue_enemigos" ID="{7F1F2FA9-3A1C-4255-96A1-93045653F31A}" WorkUnitID="{0068F637-75D2-4DCF-A442-34947F9C8869}"/>
+									<ObjectRef Name="TB_gameplay_v1_1" ID="{FC4A75C5-7728-4768-8870-E285B0DDC4B8}" WorkUnitID="{0068F637-75D2-4DCF-A442-34947F9C8869}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>
